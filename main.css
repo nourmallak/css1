@@ -1,0 +1,19 @@
+.services
+{
+    background-color: darkgray;
+    text-align: center;
+}
+p
+{
+    color: teal;
+}
+.service
+{
+    display: inline-block;
+    width: 25%;
+    background-color: rgb(236, 218, 221);
+}
+i
+{
+color: rgb(197, 75, 75);
+}
